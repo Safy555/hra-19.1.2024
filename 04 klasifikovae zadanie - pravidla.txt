@@ -1,0 +1,11 @@
+DEADLINE na zaciatku hodiny 19.1.2024
+
+0. zameranie (auticka, ping-pong, dama/sach, CDcka, priroda, ....) aj druh appky (hra, databaza, kviz,...) je na Vas, ale je nutne zabezpecit, aby sa hra zakazdym spustila "inak", tj aby som pri kazdom spusteni hral jedinecnu hru. Takze nie je mozne napr. hrat stale to iste pexeso s takym istym rozlozenim karticiek, ak robite kviz, tak ak bude jedna hra napr. nahodnych 20 otazok, je nutne mat databazu aspon 150-200otazok a pod.
+1. v priebehu hry/appky musi byt stale jasne, co sa bude diat (ziadny blikajuci kurzor na prazdnej obrazovke a ja netusim, co zadat a preco - vzdy treba pokyn, info, co od uzivatela chceme)
+2. menu s minimalne 3 polozkami (info/help/napoveda, samotna hra/appka a ukoncenie programu)
+3. min jeden ext.subor na citanie dat (napr. help, tabulka vykonov a pod)
+4. min jeden ext.subor na zapis dat (moze byt ten isty ako v bode 3, ale nemusi)
+5. vsetky cesty k ext.suborom budu v konstantach
+6. ak je treba nieco nastavit este pred spustenim hry/appky, uvedte to do prilozene textoveho suboru nazvaneho "pred spustenim.txt" (napr. nastavenie rozmeru vystupovej obrazovky a pod)
+7. kvoli prehladnosti kodu poupratujte program do procedur a funkcii
+8. ovladanie urobte aspon ciastocne "uzivatelsky pritulne", tj aspon tam, kde sa to uplne pyta, ovladanie urobte sipkami alebo ASDW a nie len "ak chces hru, stlac 1, ak chces skoncit stlac, 2"
