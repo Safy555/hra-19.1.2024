@@ -6,12 +6,10 @@
     <BuildModes Active="Default"/>
     <Units Count="1">
       <Unit0>
-        <Filename Value="hra_19_1_2024.lpr"/>
+        <Filename Value="hra_19_1_2024.pas"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="158"/>
-        <CursorPos X="43" Y="10"/>
-        <FoldState Value=" T3B09113 T1kU0nQ"/>
+        <CursorPos X="10" Y="9"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit0>
