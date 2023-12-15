@@ -172,7 +172,7 @@ begin
      'S':if hracY<>vyska then hracY:=hracY+1;
      'D':if hracX<>sirka then hracX:=hracX+1;
      'F':begin
-              textbackground(red);gotoxy((hracX*3)+2,hracY+3);write('  ');
+              textbackground(red);gotoxy((hracX*3)+2,hracY+3);write(' ');
               textbackground(black);
          end;
      #13:begin

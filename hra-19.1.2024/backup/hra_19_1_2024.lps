@@ -6,15 +6,98 @@
     <BuildModes Active="Default"/>
     <Units Count="1">
       <Unit0>
-        <Filename Value="hra_19_1_2024.pas"/>
+        <Filename Value="hra_19_1_2024.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <CursorPos X="10" Y="9"/>
-        <UsageCount Value="20"/>
+        <TopLine Value="134"/>
+        <CursorPos X="72" Y="175"/>
+        <FoldState Value=" T3B0902311/"/>
+        <UsageCount Value="23"/>
         <Loaded Value="True"/>
       </Unit0>
     </Units>
-    <JumpHistory HistoryIndex="-1"/>
+    <JumpHistory Count="20" HistoryIndex="19">
+      <Position1>
+        <Filename Value="hra_19_1_2024.lpr"/>
+        <Caret Line="166" Column="14" TopLine="157"/>
+      </Position1>
+      <Position2>
+        <Filename Value="hra_19_1_2024.lpr"/>
+        <Caret Line="164" Column="48" TopLine="150"/>
+      </Position2>
+      <Position3>
+        <Filename Value="hra_19_1_2024.lpr"/>
+        <Caret Line="165" Column="46" TopLine="152"/>
+      </Position3>
+      <Position4>
+        <Filename Value="hra_19_1_2024.lpr"/>
+        <Caret Line="176" Column="12" TopLine="152"/>
+      </Position4>
+      <Position5>
+        <Filename Value="hra_19_1_2024.lpr"/>
+        <Caret Line="178" Column="6" TopLine="167"/>
+      </Position5>
+      <Position6>
+        <Filename Value="hra_19_1_2024.lpr"/>
+        <Caret Line="167" Column="44" TopLine="154"/>
+      </Position6>
+      <Position7>
+        <Filename Value="hra_19_1_2024.lpr"/>
+        <Caret Line="101" Column="29" TopLine="168"/>
+      </Position7>
+      <Position8>
+        <Filename Value="hra_19_1_2024.lpr"/>
+        <Caret Line="202" Column="46" TopLine="188"/>
+      </Position8>
+      <Position9>
+        <Filename Value="hra_19_1_2024.lpr"/>
+        <Caret Line="164" Column="32" TopLine="93"/>
+      </Position9>
+      <Position10>
+        <Filename Value="hra_19_1_2024.lpr"/>
+        <Caret Line="98" Column="38" TopLine="78"/>
+      </Position10>
+      <Position11>
+        <Filename Value="hra_19_1_2024.lpr"/>
+        <Caret Line="180" Column="8" TopLine="170"/>
+      </Position11>
+      <Position12>
+        <Filename Value="hra_19_1_2024.lpr"/>
+        <Caret Line="53" Column="6"/>
+      </Position12>
+      <Position13>
+        <Filename Value="hra_19_1_2024.lpr"/>
+        <Caret Line="2" Column="6"/>
+      </Position13>
+      <Position14>
+        <Filename Value="hra_19_1_2024.lpr"/>
+        <Caret Line="52" Column="10" TopLine="23"/>
+      </Position14>
+      <Position15>
+        <Filename Value="hra_19_1_2024.lpr"/>
+        <Caret Line="177" Column="63" TopLine="163"/>
+      </Position15>
+      <Position16>
+        <Filename Value="hra_19_1_2024.lpr"/>
+        <Caret Line="175" Column="54" TopLine="162"/>
+      </Position16>
+      <Position17>
+        <Filename Value="hra_19_1_2024.lpr"/>
+        <Caret Line="50" Column="37" TopLine="7"/>
+      </Position17>
+      <Position18>
+        <Filename Value="hra_19_1_2024.lpr"/>
+        <Caret Line="163" Column="32" TopLine="134"/>
+      </Position18>
+      <Position19>
+        <Filename Value="hra_19_1_2024.lpr"/>
+        <Caret Line="202" Column="34" TopLine="188"/>
+      </Position19>
+      <Position20>
+        <Filename Value="hra_19_1_2024.lpr"/>
+        <Caret Line="173" Column="60" TopLine="119"/>
+      </Position20>
+    </JumpHistory>
     <RunParams>
       <FormatVersion Value="2"/>
       <Modes Count="0" ActiveMode=""/>
